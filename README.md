@@ -1,8 +1,8 @@
 Tienda Virtual de Mascotas (PetShop)
 =============
-- Este proyecto está basado en los springs presentados por el profesor #########
 - El mockup del proyecto se realizó en [Figma]([(https://www.figma.com/](https://www.figma.com/) "Figma")
-- **Periodo :** Mayo 2024
+- **Periodo :** Julio de 2024
+  
 > Proyecto para fin de programa, se usó HTML, CSS y JS
 
 La página web a continuación simula ser un carrito de compras, en la cuál eliges de una cierta cantidad de productos para posteriormente comprarlas.
@@ -51,7 +51,7 @@ Aquí podrás contactar en caso tener alguna pregunta al respecto.
 ![](https://raw.githubusercontent.com/sgcm14/Tienda-Virtual/master/doc/contacto.png)
 > Pantalla de **Contacto**
 
-**Realizado por :** #################
+**Realizado por :** Maria Padilla
 
 <img src = "assets/img/images.jpg" width= "400">
 
